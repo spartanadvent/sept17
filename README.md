@@ -18,12 +18,8 @@
 * <s>converting functions to new and normal layout</s>
 
 ##Colors
-* background is dark color txt is #f0f0f0
-* minus shadow #474747
-* background static color #efefef
-* txt static color #000000
-* background on hover state #818181
-* open box txt #1f1f1f background #efefef
+
+<http://1drv.ms/1Kjlajv>
 
 ![sept17 whiteboard](http://i.imgur.com/6ZZhxWNm.jpg?1)
 
