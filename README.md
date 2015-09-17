@@ -1,5 +1,5 @@
 #Gamestore Inventory JS App -
-#### v.003
+#### v.004
 
 ##User Interface Design Reference
 <http://geekwise.github.io/geekwise.js.edc.sept09/user_interface_design_reference.html>
@@ -17,8 +17,16 @@
 * Borders, change, colors, css
 * <s>converting functions to new and normal layout</s>
 
-![sept16 whiteboard](http://i.imgur.com/dyyejPLm.jpg)
-![sept16 whiteboard](http://i.imgur.com/0R0lqTVm.jpg)
+##Colors
+* background is dark color txt is #f0f0f0
+* minus shadow #474747
+* background static color #efefef
+* txt static color #000000
+* background on hover state #818181
+* open box txt #1f1f1f background #efefef
+
+![sept17 whiteboard](http://i.imgur.com/6ZZhxWNm.jpg?1)
+
 
 ##Future Features To Add
 * Feature Name: Swipe to delete
