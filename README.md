@@ -6,6 +6,7 @@
 
 
 ##Todo
+* <s>capitalize inventory</s>
 * <s>Add touchstart event for mobile tap</s>
 * <s>Change the load state for the `Add Item` to have the background state.</s>
 * <s>Remove all logic from html</s>
@@ -16,6 +17,16 @@
 * touchstart > touchswipe
 * Borders, change, colors, css
 * <s>converting functions to new and normal layout</s>
+* meta tag viewport width=device-width-->mobile responsive
+* css --> Class names for UI/UX 
+    * alert
+    * active
+    * hover
+    * added
+    * selected
+* <s>add to documentation</s> 
+* display "Alert prompt" - name of game and already added in seperate div
+* touchswipe vertical - down to add list item on longer list
 
 ##Colors
 
@@ -36,6 +47,7 @@
 * multi-popups on swipe 
 * when space, it adds <li>
 * imput box, cut off on mobile size device
+* mouseout > addgame > name of game > button jumps right
 
 #Fixed Bugs
 * trim white space For "ADDNEWGAME" (--SORRY--)c(SORRY)
