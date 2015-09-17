@@ -14,18 +14,18 @@
 * <s>touchstart>tap>near minus>hide minus</s>
 * style>readable background>Dark/light text>oam display>light/dark text.
 * <s>Check if game is already in the list</s>
-* touchstart > touchswipe
+* touchstart > touchswipe #vison/#julian/#Eric
 * Borders, change, colors, css
 * <s>converting functions to new and normal layout</s>
-* meta tag viewport width=device-width-->mobile responsive
-* css --> Class names for UI/UX 
+* <s>meta tag viewport width=device-width-->mobile responsive</s> #Eric
+* css --> Class names for UI/UX #julian
     * alert
     * active
     * hover
     * added
     * selected
-* <s>add to documentation</s> 
-* display "Alert prompt" - name of game and already added in seperate div
+* <s>add to documentation</s> #Eric
+* display "Alert prompt" - name of game and already added in seperate div #vinson
 * touchswipe vertical - down to add list item on longer list
 
 ##Colors
@@ -47,12 +47,13 @@
 * multi-popups on swipe 
 * when space, it adds <li>
 * imput box, cut off on mobile size device
-* mouseout > addgame > name of game > button jumps right
+* mouseout > addgame > name of game > button jumps right #Tom
 
 #Fixed Bugs
 * trim white space For "ADDNEWGAME" (--SORRY--)c(SORRY)
 * prevent empty & null values for "ADD GAME" 
 * adjusted the imput box for mobile so would not be cut off
+* mouseout> submit button does not jump right
 
 
 ##Reference Code For Event Listner
