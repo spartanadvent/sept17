@@ -1,11 +1,12 @@
 #Gamestore Inventory JS App -
-#### v.003
+#### v.004
 
 ##User Interface Design Reference
 <http://geekwise.github.io/geekwise.js.edc.sept09/user_interface_design_reference.html>
 
 
 ##Todo
+* <s>capitalize inventory</s>
 * <s>Add touchstart event for mobile tap</s>
 * <s>Change the load state for the `Add Item` to have the background state.</s>
 * <s>Remove all logic from html</s>
@@ -13,12 +14,26 @@
 * <s>touchstart>tap>near minus>hide minus</s>
 * style>readable background>Dark/light text>oam display>light/dark text.
 * <s>Check if game is already in the list</s>
-* touchstart > touchswipe
+* touchstart > touchswipe #vison/#julian/#Eric
 * Borders, change, colors, css
 * <s>converting functions to new and normal layout</s>
+* <s>meta tag viewport width=device-width-->mobile responsive</s> #Eric
+* css --> Class names for UI/UX #julian
+    * alert
+    * active
+    * hover
+    * added
+    * selected
+* <s>add to documentation</s> #Eric
+* display "Alert prompt" - name of game and already added in seperate div #vinson
+* touchswipe vertical - down to add list item on longer list
 
-![sept16 whiteboard](http://i.imgur.com/dyyejPLm.jpg)
-![sept16 whiteboard](http://i.imgur.com/0R0lqTVm.jpg)
+##Colors
+
+<http://1drv.ms/1Kjlajv>
+
+![sept17 whiteboard](http://i.imgur.com/6ZZhxWNm.jpg?1)
+
 
 ##Future Features To Add
 * Feature Name: Swipe to delete
@@ -32,11 +47,13 @@
 * multi-popups on swipe 
 * when space, it adds <li>
 * imput box, cut off on mobile size device
+* mouseout > addgame > name of game > button jumps right #Tom
 
 #Fixed Bugs
 * trim white space For "ADDNEWGAME" (--SORRY--)c(SORRY)
 * prevent empty & null values for "ADD GAME" 
 * adjusted the imput box for mobile so would not be cut off
+* mouseout> submit button does not jump right
 
 
 ##Reference Code For Event Listner
