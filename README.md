@@ -12,11 +12,11 @@
 * <s>Remove all logic from html</s>
 * <s>mouse out on list to hide minus</s>
 * <s>touchstart>tap>near minus>hide minus</s>
-* style>readable background>Dark/light text>oam display>light/dark text.
+* style>readable background>Dark/light text>oam display>light/dark text. #julian
 * <s>Check if game is already in the list</s>
 * touchstart > touchswipe #vison/#julian/#Eric
-* Borders, change, colors, css
-* <s>converting functions to new and normal layout</s>
+* Borders, change, colors, css 
+* <s>converting functions to new and normal layout</s> #julian
 * <s>meta tag viewport width=device-width-->mobile responsive</s> #Eric
 * css --> Class names for UI/UX #julian
     * alert
@@ -39,6 +39,7 @@
 * Feature Name: Swipe to delete
 	* find native JS via MDN
 	* <https://developer.mozilla.org/en-US/docs/Web/API/Touch_events>
+* 
 
 > find a function or native JS example
 > to allow a swipe to delete the inventory item.
@@ -53,7 +54,7 @@
 * trim white space For "ADDNEWGAME" (--SORRY--)c(SORRY)
 * prevent empty & null values for "ADD GAME" 
 * adjusted the imput box for mobile so would not be cut off
-* mouseout> submit button does not jump right
+* mouseout> submit button does not jump right#tom
 
 
 ##Reference Code For Event Listner
